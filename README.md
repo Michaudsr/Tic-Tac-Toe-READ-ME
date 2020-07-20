@@ -30,7 +30,7 @@ I first created a boilerplate consisting of a title, links to css and javascript
 </body>
 </html>
 ```
-#CSS
+## CSS
 
 I used CSS to add styling to my HTML and to create the gameboard. The gameboard was created within my container div using the grid display. Here is a snippet of how i created the board in css:
 ```
