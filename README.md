@@ -46,7 +46,7 @@ I used CSS to add styling to my HTML and to create the gameboard. The gameboard 
   margin: 0 auto;
 }
 ```
-#Javascript
+## Javascript
 
 After creating my board using HTML and CSS i used the programming language Javascript to write all the code functions that make the game interative. The first thing i did was use the container i created in HTML to create nine more div's that each had there own id and class, which when the div is clicked would give it a new class of either player_x or player_o. Here is a snippet of the code just described:
 ```
